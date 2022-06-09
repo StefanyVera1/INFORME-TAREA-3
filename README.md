@@ -49,7 +49,6 @@ Objetivos Específicos:
  <dd><img src=""></dd>
   <dd>14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?</dd>
  <dd><img src=""></dd> 
-  </dl>
 <dd>*16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 k Ω, 2.2 k Ω, y 5.6 k Ω. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 k Ω. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?</dd>
  <dd><img src=""></dd>
 <dd>18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?</dd>
