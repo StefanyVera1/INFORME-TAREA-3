@@ -221,7 +221,7 @@ Objetivos Específicos:
  </dl>
 <b>CONCLUSIONES
  <dl>
-  <dd>Una vez realizada la revisión respectiva del capítulo 1 y 2 se determina que es primordial comprender los conceptos básicos de fundamentos de circuitos ya que, al emplearlos en los ejercicios planteados, es necesario aplicar las fórmulas adecuadas para obtener los resultados requeridos, y en varios casos, se precisa convertir a distintas unidades métricas. Así como también es esencial implementar de manera adecuada los instrumentos, ya que si no se da el uso apropiado, este puede causar daños en un circuito al aplicarlo en la vida real o peor aún, causar daños a la persona que manipula los dispositivos eléctricos y electrónicos.</dd>
+  <dd>Una vez realizada la revisión respectiva de los capítulos correspondientes, se determina que es primordial comprender tanto los circuitos en serie como los circuitos en paralelo, ya que así se aplicará de forma adecuada las fórmulas correspondientes para determinar un resultado óptimo. Así mismo, al identificar fallas en los circuitos, es posible determinar si su corriente o su voltaje tendrán una variación o se mantendrá el valor indicado inicialmente, dependiendo del tipo de circuito con el cual se trabaje.</dd>
  </dl>
 <b>BIBLIOGRAFÍA
  <dl>
