@@ -16,7 +16,8 @@ Objetivos Específicos:
 <b>MARCO TEÓRICO <p>
  <dl>
   <dd>SECCIÓN 5</dd>
-   <dd><img src="" width="600" height="750"></dd>  
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.JPG" width="600" height="750"></dd> 
+   <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/cap5.1.JPG" width="600" height="750"></dd> 
  <dd>SECCIÓN 6</dd>
   <dd><img src="" width="600" height="750"></dd>
 </dl>
