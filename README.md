@@ -28,7 +28,7 @@ Objetivos Específicos:
 
 <dl>
 <dd>2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.</dd>
- <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/fig568.jpg"></dd>
+ <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/fig568.jpg"  width="400" height="550"></dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/ej2.JPG"></dd>
 <dd>4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec5/ej4.JPG"></dd>
@@ -155,7 +155,6 @@ Objetivos Específicos:
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec6/ej16.JPG"></dd>
   <dd>18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec6/ej18.JPG"></dd> 
-  </dl>
 <dd>20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?</dd>
  <dd><img src="https://github.com/StefanyVera1/INFORME-TAREA-3/blob/main/img/sec6/ej20.JPG"></dd>
 </dl>
