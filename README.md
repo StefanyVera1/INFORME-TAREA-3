@@ -5,13 +5,13 @@
  <b>OBJETIVOS<p> 
 Objetivo General:
 <dl>
- <dd>Comprender varios conceptos básicos de estudio en fundamentos de circuitos eléctricos, así como los componentes que pueden implementarse en la práctica, logrando de esta forma, reforzar los temas tratados durante la clase dada.</dd>
+ <dd>Identificar de manera correcta un circuito en serie y en paralelo, así mismo, aplicar adecuadamente las leyes correspondientes para resolver los problemas planteados y comprender los diagramas establecidos a lo largo de los capítulos.</dd>
 </dl>
 Objetivos Específicos:
 <ul>
- <li>Analizar las unidades de medida y las conversiones correspondientes de acuerdo al uso dado.</li>
- <li>Definir de manera clara y concisa los conceptos de voltaje, corriente y resistencia, ya que estos se aplican en los ejercicios que se encuentran en el presente informe.</li>
- <li>Conocer los distintos dispositivos de medida e interpretar los resultados que se obtienen mediante los mismos.</li>
+ <li>Determinar el efecto total de una fuente de corriente en paralelo.</li>
+ <li>Determinar el voltaje a través de cada rama en paralelo.</li>
+ <li>Determinar el efecto total de fuentes de voltaje conectadas en serie.</li>
 </ul>
 <b>MARCO TEÓRICO <p>
  <dl>
